@@ -1,1 +1,2 @@
 # RyDuino
+After using many different microcontrollers through the years, I’ve developed two microcontroller boards based on my own personal preferences and experiences that I've called the RyDuino (a portmanteau of Ryan and Arduino). Specifically, many of the major features are designed to replace things that I commonly have to use breadboards for. Currently, they are both based on the ATmega328P in a DIP package because I like the option of replacing chips if they get damaged. However, I plan on making another version based on the ESP32 chip.
